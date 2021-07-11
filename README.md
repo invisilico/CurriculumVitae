@@ -3,4 +3,4 @@ The CV for Nishant Jana
 
 Quick links:
 
-[CurriculumVitae](https://github.com/invisilico/CurriculumVitae/blob/main/CV%20Nov2020%20Img.pdf)
+[CurriculumVitae](https://github.com/invisilico/CurriculumVitae/blob/main/CV%20Jul21.pdf)
