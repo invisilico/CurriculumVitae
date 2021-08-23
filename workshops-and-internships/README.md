@@ -1,5 +1,9 @@
 # Workshops and Internships
 
+## Workshops Attended
+
+NeuroData Without Borders - User Days Workshop
+
 ## Workshops volunteered in
 
 Workshop on Protein Biology Techniques - August 2019
