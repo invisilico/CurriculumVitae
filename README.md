@@ -1,6 +1,6 @@
 # CurriculumVitae
-The CV for Nishant Jana
+Nishant Jana's Curriculum Vitae and certificates
 
-Quick links:
+click the link below to see the CV:
 
 [CurriculumVitae](https://invisilico.github.io/CurriculumVitae/)
